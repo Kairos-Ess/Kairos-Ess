@@ -1,6 +1,6 @@
 - Kairos Ess
-- Civil Engineer, Derivatives Trader and hobbyist Quantitative Analyst. 
-- Learning Python, mostly for data analysis and backtesting. 
+- Civil Engineer, Volatility Trader and Quantitative Research Analyst. 
+- Learning to program for quant analysis. 
 - HMU @sachasucha on Twitter
 
 <!---
